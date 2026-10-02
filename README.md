@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I'm Isna
 
-Informatics Education student at **Universitas Lampung**. I enjoy building **web and mobile applications** and developing **information systems**.
+Information Technology Education at **Universitas Lampung**. I enjoy building **web and mobile applications** and developing **information systems**.
 
 ```python
 from dataclasses import dataclass
