@@ -1,6 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:4ade80&height=220&text=Isna%20Inun%20Wulan%20Sari&fontSize=42&fontColor=ffffff&desc=Informatics%20Education%20Student%20%C2%B7%20Web%20%26%20Mobile%20Developer&descSize=18&descAlignY=68)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&text=Isna%20Inun%20Wulan%20Sari&fontSize=40&fontColor=ffffff)
+
+**Informatics Education Student · Web & Mobile Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ISI_LINK_LINKEDIN_KAMU)
 [![Email](https://img.shields.io/badge/EMAIL-ISI--EMAIL--KAMU-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ISI_EMAIL_KAMU)
@@ -42,10 +44,8 @@ me = Developer(
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tech Stack](https://skillicons.dev/icons?i=python,dart,flutter,html,git)
+
 
 ### 📌 Featured Projects
 
@@ -55,3 +55,16 @@ me = Developer(
 ### 🤝 Let's Connect
 
 I'm open to collaborating on interesting projects. If you have an idea or just want to connect, feel free to reach out!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Isnainun21?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb)
+![Profile Views](https://komarev.com/ghpvc/?username=Isnainun21&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge)
+
+![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0f172a&height=120)
+
+</div>
