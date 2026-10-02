@@ -1,10 +1,9 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&text=Isna%20Inun%20Wulan%20Sari&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=240&text=Isna%20Inun%20Wulan%20Sari&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Education%20Student%20%C2%B7%20Web%20%26%20Mobile%20Developer&descSize=18&descColor=cbd5e1&descAlignY=58)
 
-**Informatics Education Student · Web & Mobile Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isnainunwulansari?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW%20MY%20WORK-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](ISI_LINK_PORTOFOLIO_VERCEL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isnainunwulansari)
 [![Email](https://img.shields.io/badge/EMAIL-isnainunwulansari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isnainunwulansari@gmail.com)
 
 </div>
@@ -44,7 +43,6 @@ me = Developer(
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,dart,flutter,html,git)
 
-
 ### 📌 Featured Projects
 
 - 🖐️ **[Hand Gesture Recognition](ISI_LINK_REPO)**: hand gesture detection experiments using Python
@@ -61,6 +59,8 @@ I'm open to collaborating on interesting projects. If you have an idea or just w
 
 ![Followers](https://img.shields.io/github/followers/Isnainun21?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb)
 ![Profile Views](https://komarev.com/ghpvc/?username=Isnainun21&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge)
+
+[![See Portfolio](https://img.shields.io/badge/%E2%86%92%20SEE%20FULL%20PORTFOLIO-2563EB?style=for-the-badge)](ISI_LINK_PORTOFOLIO_VERCEL)
 
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0f172a&height=120)
 
