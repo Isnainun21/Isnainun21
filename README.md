@@ -5,7 +5,7 @@
 **Informatics Education Student · Web & Mobile Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isnainunwulansari?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/EMAIL-ISI--EMAIL--KAMU-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isnainunwulansari@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-isnainunwulansari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isnainunwulansari@gmail.com)
 
 </div>
 
